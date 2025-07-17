@@ -1,0 +1,7 @@
+/* assets/custom.css */
+
+html, body { height:100%; margin:0; font-family: "Segoe UI", sans-serif; }
+.sidebar { position:fixed; top:56px; bottom:0; width:16rem; padding:1rem; overflow:auto; }
+.header { position:fixed; top:0; left:0; right:0; height:56px; background:#fff; padding:0 1rem; box-shadow:0 1px 4px rgba(0,0,0,0.1); z-index:1000; }
+.page-content { margin-top:70px; margin-left:1rem; padding-bottom:2rem; }
+.sidebar-title { font-weight:bold; }

@@ -1,0 +1,7 @@
+StudentID,Student,Math,Science,English,History,Art,Attendance,Remarks,PhotoURL
+ST-01,Alice Johnson,92.0,88.0,95.0,88.0,94.0,98.0,Loves class discussions.,https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+ST-02,Bob Williams,65.0,72.0,68.0,61.0,75.0,80.0,Struggles with algebra.,https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+ST-03,Charlie Brown,58.0,62.0,71.0,65.0,68.0,74.0,Attendance has been slipping.,https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+ST-04,Diana Miller,85.0,90.0,88.0,92.0,85.0,96.0,A very consistent and hardworking student.,https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+0,0,0.0,0.0,0.0,0.0,0.0,0.0,,
+,,0.0,0.0,0.0,0.0,0.0,0.0,,
